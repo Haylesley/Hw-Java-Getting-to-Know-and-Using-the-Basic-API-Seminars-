@@ -23,5 +23,7 @@ public class FirstT {
             sum = sum * i;
         }
         System.out.println("Факториал числа: " + sum);
+
+        sc.close();
     }
 }

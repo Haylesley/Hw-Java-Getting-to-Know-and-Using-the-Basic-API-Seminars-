@@ -33,5 +33,7 @@ public class ThreeT {
                 return;
         }
         System.out.println(num1 + " " + ch + " " + num2 + " = " + result);
+        
+        sc.close();
     }
 }
